@@ -10,4 +10,5 @@ public class FibonacciSeries {
             b = next;
         }
     }
+
 }
